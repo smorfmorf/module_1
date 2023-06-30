@@ -8,3 +8,4 @@
 #git status #посмотреть статус
 
 #git diff #посмотреть изменение
+#git diff --color-words #видит все изменения
