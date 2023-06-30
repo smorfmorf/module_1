@@ -9,3 +9,5 @@
 
 #git diff #посмотреть изменение
 #git diff --color-words #видит все изменения
+
+#git checkout . #откатиться на 1 комит
